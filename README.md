@@ -1,4 +1,4 @@
-# SECWebScraper
+# SPAC Data Web Scraper
 
 
 | Software  | Package Requirements |
